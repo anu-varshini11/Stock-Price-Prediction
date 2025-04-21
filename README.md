@@ -84,6 +84,7 @@ for epoch in range(epochs):
 
 ![Screenshot 2025-04-21 110509](https://github.com/user-attachments/assets/e1092557-e81e-4364-8ecb-40ab52164219)
 
+![Screenshot 2025-04-21 110517](https://github.com/user-attachments/assets/fc9c5765-f2a9-4cba-8361-cca3e4295cc8)
 
 
 
